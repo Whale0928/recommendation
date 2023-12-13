@@ -1,4 +1,4 @@
-package com.example.recommendation;
+package com.example.recommendation.domain;
 
 import java.util.Arrays;
 import java.util.HashMap;

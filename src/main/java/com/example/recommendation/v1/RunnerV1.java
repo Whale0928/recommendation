@@ -1,6 +1,6 @@
 package com.example.recommendation.v1;
 
-import com.example.recommendation.InputData;
+import com.example.recommendation.domain.InputData;
 import com.example.recommendation.domain.Item;
 import com.example.recommendation.domain.Users;
 
