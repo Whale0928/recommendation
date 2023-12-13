@@ -12,8 +12,9 @@ public class Recommender {
 
     /**
      * 사용자에게 아이템을 추천하는 메소드입니다.
-     * @param dataMatrix 사용자별 아이템 선호도 데이터 매트릭스
-     * @param memberId 사용자 ID
+     *
+     * @param dataMatrix    사용자별 아이템 선호도 데이터 매트릭스
+     * @param memberId      사용자 ID
      * @param minPreference 최소 선호도
      * @return 추천 아이템의 리스트
      */
